@@ -1,0 +1,5 @@
+Diccionario[[:space:]]de[[:space:]]Variables.xlsx filter=lfs diff=lfs merge=lfs -text
+Datos[[:space:]]Limpios.xlsx filter=lfs diff=lfs merge=lfs -text
+Analisis[[:space:]]Descriptivo.xlsx filter=lfs diff=lfs merge=lfs -text
+Correlaciones.xlsx filter=lfs diff=lfs merge=lfs -text
+Regresiones.xlsx filter=lfs diff=lfs merge=lfs -text
