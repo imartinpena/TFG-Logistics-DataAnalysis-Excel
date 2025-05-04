@@ -4,3 +4,4 @@ Analisis[[:space:]]Descriptivo.xlsx filter=lfs diff=lfs merge=lfs -text
 Correlaciones.xlsx filter=lfs diff=lfs merge=lfs -text
 Regresiones.xlsx filter=lfs diff=lfs merge=lfs -text
 ANOVA.xlsx filter=lfs diff=lfs merge=lfs -text
+Series[[:space:]]Temporales.xlsx filter=lfs diff=lfs merge=lfs -text
