@@ -61,7 +61,6 @@ Para una visión completa del proyecto y acceder a todos los recursos, se recomi
 ## 🔗 Recursos adicionales
 
 - **Dataset Kaggle**: [DataCo Smart Supply Chain for Big Data Analysis](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis)
-- **Video y recursos adicionales**: (Si tienes algún vídeo o recurso en línea como hiciste con el de Power BI, puedes poner aquí el enlace. Si no, este apartado lo puedes eliminar).
 
 ---
 
